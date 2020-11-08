@@ -1,0 +1,2 @@
+2020-10-10 12:04:51 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/robots.txt> (referer: None) ['cached']
+2020-10-10 12:04:51 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?sort_by=&sort_order=0&filter=topsellers&page=1> (referer: None) ['cached']

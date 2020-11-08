@@ -1,0 +1,31 @@
+2020-11-08 23:35:44 [scrapy] DEBUG: Retrying <GET https://www.flipkart.com/search?q=iphone 11 via http://localhost:8050/execute> (failed 1 times): Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2020-11-08 23:35:46 [scrapy] DEBUG: Retrying <GET https://www.flipkart.com/search?q=iphone 11 via http://localhost:8050/execute> (failed 2 times): Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2020-11-08 23:35:49 [scrapy] DEBUG: Gave up retrying <GET https://www.flipkart.com/search?q=iphone 11 via http://localhost:8050/execute> (failed 3 times): Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2020-11-08 23:35:49 [scrapy] ERROR: Error downloading <GET https://www.flipkart.com/search?q=iphone 11 via http://localhost:8050/execute>
+Traceback (most recent call last):
+  File "c:\users\home\anaconda3\envs\virtual_scrape\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.internet.error.ConnectionRefusedError: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2020-11-08 23:35:49 [scrapy] INFO: Closing spider (finished)
+2020-11-08 23:35:49 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 3,
+ 'downloader/exception_type_count/twisted.internet.error.ConnectionRefusedError': 3,
+ 'downloader/request_bytes': 2898,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/POST': 3,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 11, 8, 22, 35, 49, 405234),
+ 'httpcache/miss': 3,
+ 'log_count/DEBUG': 4,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 6,
+ 'retry/count': 2,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.ConnectionRefusedError': 2,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'splash/execute/request_count': 1,
+ 'start_time': datetime.datetime(2020, 11, 8, 22, 35, 42, 229292)}
+2020-11-08 23:35:49 [scrapy] INFO: Spider closed (finished)

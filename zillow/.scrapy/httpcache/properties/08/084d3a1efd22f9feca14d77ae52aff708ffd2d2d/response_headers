@@ -1,0 +1,21 @@
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 16 Oct 2020 13:16:53 GMT
+Server: Apache-Coyote/1.1
+X-B3-Traceid: 5f899d455263c3f8d7e03c68dc59a367
+X-B3-Spanid: d7e03c68dc59a367
+X-B3-Sampled: 1
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Internal-Host: 025
+X-Requested-Session: 2761A32FF59B2D9397EF0E7ABB20BB6E
+Z-Using-Act: 2
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Via: 1.1 zgs, 1.1 024e0eb7c8dbc0f1008d8bc14f1acebf.cloudfront.net (CloudFront)
+Set-Cookie: AWSALB=p2+AMuDbOgm9TGmj3spBVqHyRzz0zo/rKugcASan3MxszCSCwc1+WQmzzeQA4WBo2S4DchMqjMHmzRsHOZDt1yzYWNDYBb4/1+g0xCLpjWj7AoVz/8jTIVDTyNgC; Expires=Fri, 23 Oct 2020 13:16:53 GMT; Path=/
+Set-Cookie: AWSALBCORS=p2+AMuDbOgm9TGmj3spBVqHyRzz0zo/rKugcASan3MxszCSCwc1+WQmzzeQA4WBo2S4DchMqjMHmzRsHOZDt1yzYWNDYBb4/1+g0xCLpjWj7AoVz/8jTIVDTyNgC; Expires=Fri, 23 Oct 2020 13:16:53 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: JSESSIONID=DC28A11A01C65A9782D748AC6E26B9A4; Path=/; HttpOnly
+Set-Cookie: search=6|1605446213524%7Crect%3D25.924065538036224%252C-80.03585218359373%252C25.621078067956006%252C-80.45882581640623%26rid%3D12700%26disp%3Dmap%26mdm%3Dauto%26p%3D1%26z%3D1%26pt%3Dpmf%252Cpf%26fs%3D1%26fr%3D0%26mmm%3D1%26rs%3D0%26ah%3D0%26singlestory%3D0%26housing-connector%3D0%26abo%3D0%26garage%3D0%26pool%3D0%26ac%3D0%26waterfront%3D0%26finished%3D0%26unfinished%3D0%26cityview%3D0%26mountainview%3D0%26parkview%3D0%26waterview%3D0%26hoadata%3D1%26zillow-owned%3D0%263dhome%3D0%09%09%09%09%09%09%09%09; Domain=.zillow.com; Expires=Thu, 17-Oct-2030 01:16:53 GMT; Path=/
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: LHR61-C1
+X-Amz-Cf-Id: cmKiWsztsrIhDjYFIkCje8NMvkkFqNxAXreQj6sOcwU-Ql0ztRrbQA==

@@ -1,0 +1,119 @@
+2020-11-04 03:49:32 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/search?q=iphone 11 via http://localhost:8050/execute> (referer: None) ['cached']
+2020-11-04 03:49:32 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/p/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&srno=s_1_1&otracker=search&fm=organic&iid=1ddd14f5-64ad-4887-82f8-b6cdae24ee2f.MOBFKCTSVZAXUHGR.SEARCH&ssid=6cmjnbken40000001604455267276&qH=f6cdfdaa9f3c23f3 via http://localhost:8050/execute> (referer: None) ['cached']
+2020-11-04 03:49:32 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART via http://localhost:8050/execute> (referer: None) ['cached']
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': 'Amazing phone with great cameras and better battery which gives '
+             'you the best performance. I just love the camera .',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '5 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Great product',
+ 'comments': 'Amazing Powerful and Durable Gadget.',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '7 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': 'It’s a must buy who is looking for an upgrade from previous '
+             'generation of iPhones. If you are using XR then still you can '
+             'hold on for sometime and upgrade to 2020 model else this phone '
+             'is a must buy . Camera quality is amazing and wide angle is '
+             'something to count upon. Performance wise it’s amazing and feels '
+             'premium while holding in hand. So a big YES for this device. Go '
+             'for 128 GB variant as the 4K videos will occupy lots of space '
+             'and the storage can get over very quickly. Try to buy it with...',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '7 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Highly recommended',
+ 'comments': 'iphone 11 is a very good phone to buy only if you can compromise '
+             'for the display. The display on this is device is pretty good '
+             'but you can get other options with better displays in this price '
+             'segment.',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '11 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': 'Value for money❤️❤️',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '11 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Worth every penny',
+ 'comments': 'Best budget Iphone till date ❤️ go for it guys without second '
+             'thought. Let me explain you guys about Camera, Display, battery, '
+             'and performance. ',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '9 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Worth every penny',
+ 'comments': 'It’s been almost a month since I have been using this phone. I '
+             'upgraded from an iPhone 8. The main issue with my 8 was battery '
+             'and this phone is just awesome when it comes to battery. It '
+             'lasts a day and a half for me with my regular use , internet '
+             'connected always with 4g ',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '11 months ago'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': 'Iphone is just awesome.. battery backup is very very nice.. '
+             'continuously for 10 hours we can use it.camera is just awesome.. '
+             'display is just fab.i love it alot..i had to wait 15 days for it '
+             "as i pre ordered it..overalll it's worth the price..these all "
+             'images are clicked by my iPhone..and i love it.',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': 'Oct, 2019'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Nice product',
+ 'comments': 'Awesome Phone. Slightly high price but worth. Better than iPhone '
+             'XR. ',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '4',
+ 'time_reviewed': 'Sep, 2019'}
+2020-11-04 03:49:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Wonderful',
+ 'comments': '*Review after 10 months of usage*',
+ 'item_desc': 'Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power '
+              'Adapter) Reviews',
+ 'ratings': '5',
+ 'time_reviewed': '11 months ago'}
+2020-11-04 03:49:32 [scrapy] INFO: Closing spider (closespider_itemcount)
+2020-11-04 03:49:32 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3753,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/POST': 3,
+ 'downloader/response_bytes': 404890,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2020, 11, 4, 2, 49, 32, 924805),
+ 'httpcache/hit': 3,
+ 'item_scraped_count': 10,
+ 'log_count/DEBUG': 14,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 3,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 6,
+ 'scheduler/dequeued/memory': 6,
+ 'scheduler/enqueued': 7,
+ 'scheduler/enqueued/memory': 7,
+ 'splash/execute/request_count': 3,
+ 'splash/execute/response_count/200': 3,
+ 'start_time': datetime.datetime(2020, 11, 4, 2, 49, 32, 527729)}
+2020-11-04 03:49:32 [scrapy] INFO: Spider closed (closespider_itemcount)

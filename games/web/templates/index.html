@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{url_for('static', filename = 'css/bootstrap.min.css')}}">
+    <title>Steam Games</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">Steam Games</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-4">
+        <div class="jumbotron" style = "text-align:center;">
+            <h1 class="display-4">TOP 100 GAMES</h1>
+                <p class="lead">All the Games in the sites are scraped from steam store using Scrapy and ScrapyRT</p>
+            <hr class="my-4">
+                <p>For More games information kindly visit the parent website by clicking the below button</p>
+            <a class="btn btn-primary btn-lg" href="https://store.steampowered.com/search/?sort_by=&sort_order=0&filter=topsellers&page=1"target="_blank" role="button">Learn more</a>
+        </div>
+    </div>
+    <div class="container">
+        {% for game in games %}
+            {% if loop.index0 % 3 == 0 %}
+                <div class="row justify-content-center mt-4 mb-4">
+            <!-- {% endif %} -->
+
+                    <div class="card mr-4" style="width: 18rem; text-align: center;">
+                        <img src="{{game.get('game_img')}}" class="card-img-top" >
+                        <div class="card-body">
+                            <h5 class="card-title">{{game.get('game_name')}}</h5>
+                            <p class="card-text" style='color:red;'>{{game.get('original_price')}}</p>
+                            <a href="{{game.get('game_url')}}" class="btn btn-primary">Game URL</a>
+                        </div>
+                    </div>
+
+            <!-- {% if loop.index0 %3 == 2 %} -->
+                </div>
+            {% endif %}
+
+        {% endfor %}
+
+    </div>
+
+
+
+
+    <h1 style=color:red>
+        {% for user in my_users %}
+        {% if user == 'SHADRACH' %}
+        <p>{{user}}</p>
+        {% endif %}
+        {% endfor %}
+    </h1>
+
+</body>
+
+</html>

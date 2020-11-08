@@ -1,0 +1,287 @@
+2020-11-03 21:36:03 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/search?q=iphone 11 via http://localhost:8050/execute> (referer: None)
+2020-11-03 21:36:17 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/p/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&srno=s_1_1&otracker=search&fm=organic&iid=c9567e87-85dc-4181-aa5a-ac179846080f.MOBFKCTSVZAXUHGR.SEARCH&ssid=l3d48qla0w0000001604435754579&qH=f6cdfdaa9f3c23f3 via http://localhost:8050/execute> (referer: None)
+2020-11-03 21:36:24 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART via http://localhost:8050/execute> (referer: None)
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': ['Amazing phone with great cameras and better battery which gives '
+              'you the best performance. I just love the camera .'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Great product',
+ 'comments': ['Amazing Powerful and Durable Gadget.',
+              'I’m am very happy with the camera picture quality, Amazing face '
+              'id unlocked in dark room, Strong battery with perfect screen '
+              'size as you can carry easily in pocket. This is my third '
+              'iPhone. ',
+              'I shifted from android Samsung Note series to iPhone because of '
+              'the strong build quality and peace of mind for next 3-4 years.',
+              'Don’t think to much just go for it and I suggest you to go for '
+              'minimum 128gb variant or more 256gb. ',
+              'I’ve attached my puppy pics and no fi...'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': ['It’s a must buy who is looking for an upgrade from previous '
+              'generation of iPhones. If you are using XR then still you can '
+              'hold on for sometime and upgrade to 2020 model else this phone '
+              'is a must buy . Camera quality is amazing and wide angle is '
+              'something to count upon. Performance wise it’s amazing and '
+              'feels premium while holding in hand. So a big YES for this '
+              'device. Go for 128 GB variant as the 4K videos will occupy lots '
+              'of space and the storage can get over very quickly. Try to buy '
+              'it with...'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Highly recommended',
+ 'comments': ['iphone 11 is a very good phone to buy only if you can '
+              'compromise for the display. The display on this is device is '
+              'pretty good but you can get other options with better displays '
+              'in this price segment.',
+              'If you can survive with an HD+ LCD panel with thicker bezels '
+              'and a notch up top then this is a very good phone for you.',
+              'Cameras are awesome, battery backup excellent, great '
+              'performance and a decent premium look. Good job Apple !'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': ['Value for money❤️❤️',
+              'Its awesome mobile phone in the world ...',
+              'Display was very good and bright ..',
+              'Trust me freinds you r never regret after Buying..',
+              'Just go for it....',
+              'I love this phone and i switch to iphone x to 11'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Worth every penny',
+ 'comments': ['Best budget Iphone till date ❤️ go for it guys without second '
+              'thought. Let me explain you guys about Camera, Display, '
+              'battery, and performance. ',
+              'Camera: at this price range there is no comparison of camera, '
+              'you’ll love the picture quality as well as video quality. I am '
+              'a Vlogger I wanted an iPhone with 4k video by front camera and '
+              'I got this phone and I am more than happy 😃 ',
+              'Battery: I use this phone roughly as I am active social media '
+              'person and I have a youtube channel. so the battery ba...'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Worth every penny',
+ 'comments': ['It’s been almost a month since I have been using this phone. I '
+              'upgraded from an iPhone 8. The main issue with my 8 was battery '
+              'and this phone is just awesome when it comes to battery. It '
+              'lasts a day and a half for me with my regular use , internet '
+              'connected always with 4g ',
+              'Can’t move forward without saying this. Battery of this phone '
+              'is a life saver when I am traveling or at work when I don’t get '
+              'the option to charge ',
+              'Camera is superb. Front cam selfies and back cam photos are '
+              'just awesome. ',
+              '...'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Perfect product!',
+ 'comments': ['Iphone is just awesome.. battery backup is very very nice.. '
+              'continuously for 10 hours we can use it.camera is just '
+              'awesome.. display is just fab.i love it alot..i had to wait 15 '
+              "days for it as i pre ordered it..overalll it's worth the "
+              'price..these all images are clicked by my iPhone..and i love '
+              'it.'],
+ 'ratings': '5'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Nice product',
+ 'comments': ['Awesome Phone. Slightly high price but worth. Better than '
+              'iPhone XR. ',
+              'Camera is superb and wide angle camera is very clear. ',
+              '12MP selfie camera is also very good. ',
+              'A13 Chip gives a very good and smooth performance.'],
+ 'ratings': '4'}
+2020-11-03 21:36:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART>
+{'caption': 'Wonderful',
+ 'comments': ['*Review after 10 months of usage*',
+              'Doesn\'t seem bulky with decent touch and camera. The "standard '
+              'maintained" quality of IPhone. Go for it, if your budget is not '
+              "more enough for pro models. It's a value for money among the 11 "
+              'series Stereo speakers are so good, you will love the stereo '
+              'sound. Battery backup is not decent but still better than '
+              "Iphone 7 and 8.Processor is fast, the phone doesn't lag at all "
+              'even with heavy games, waterproof, faster face id and with no '
+              'fingerprint scanners. The ca...'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2 via http://localhost:8050/execute> (referer: None)
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Terrific purchase',
+ 'comments': ['Upgraded from iphone 6 to 11 best phone for iphone users '
+              'battery is much better than other iphones camera is awesome '
+              'love to use it.camera is so clear in night.'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Wonderful',
+ 'comments': ['This is my first ever I phone. Before this I was using my '
+              'google nexus 5. But moving from android to iOS is a great '
+              'experience. It’s worth at this price. I will highly recommend '
+              'it if you want to move to iOS. The best part of this phone is '
+              'it’s camera and it’s battery life. This two things have won my '
+              'heart. I loved it. Happy to have it in my hand. Still exploring '
+              'its features. And can’t forget to mention Flipkart service. '
+              'Very prompt service and fast delivery.'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Great product',
+ 'comments': ['Well you all know the specifications . One of a kind. Best '
+              'iPhone till date. Many enhancements to the camera app with many '
+              'options. Love the glass body with matte finish in the lens area '
+              'on the back. Lovely colours to choose from. Best battery in an '
+              'iPhone till date, enough to last more than a day in normal '
+              'usage. I tested my iPhone 11 battery and lasted for  than 24 '
+              'hours after full charge still with 30% battery charge left. '
+              'Watched movies for some time. Normal usage on calls, browsing, '
+              'musi...'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Mind-blowing purchase',
+ 'comments': ['This will help you more. See if you are planning to buy iPhone '
+              '11. I will say. Yes. But there are some plans I just want to '
+              'disclose before you buy. 1) If you are an existing iPhone '
+              'X/XS/XS Max/ XR user, better you guys do not think it to buy. '
+              'You guys have more or less better gadget. 2) If you are an '
+              'android user and planning to buy premium phone. I will suggest '
+              'them to please buy iPhone instead of buying an Android. I bet '
+              'you will never go back to android after using IOS. Now I want '
+              'to shar...'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Terrific purchase',
+ 'comments': ['The built quality is not very premium. ',
+              'The battery back is great .',
+              'The LCD panel is not so sharp but the brightness level is very '
+              'High .',
+              'Camera is super duper awesome.',
+              'The red colour which people think is bright is actually very '
+              'soothing and excellent colour to choose from .',
+              'The A13 Bionic chip is really a flagship processor  and can '
+              'beat any phone which even has 12 gb ram .',
+              'Camera module is very great and looks very stylish.'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Mind-blowing purchase',
+ 'comments': ['First thanks to Flipkart for this amazing deal and phone is '
+              'outstanding. I upgraded from iPhone 7 and this is like very big '
+              'upgrade. But the packaging was very basic I expected a good '
+              'packaging as they only wrapped one layer of bubble wrap which I '
+              'don’t think is enough to protect this expensive phone. And I '
+              'recommend this phone and seller as well.    ',
+              'And I’m posting this review after using it for 4 days.'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Simply awesome',
+ 'comments': ['Excellent camera, good performance, no lag. The lcd display is '
+              'also good.. but difference come when we watch movie in prime '
+              'and Netflix, the colours are not vibrant.. as we see in amoled '
+              'display.. and the charger in box is of 5 watts.. takes more '
+              'than 3 hours to charge from 0 to 100.. so guys be prepare to '
+              'buy 18 watts charger . Finally I am an android user, it was my '
+              'first Iapple phone, I promise u guys the iOS is so smooth.. '
+              'overall the phone is damn good.... close eyes to buy it.. '
+              'thanks t...'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Must buy!',
+ 'comments': ['It’s an amazing product from apple and the camera is simply '
+              'superb. Phone is faster.Night shot is simply superb and '
+              'detailing and colour differentiation from camera is an added '
+              'advantage',
+              'This review I have written from iPhone 11 only and I am glad to '
+              'say outside.',
+              'Cons wise if we see HD+ display only, no battery percentage '
+              'indicator as in older iPhone 8. ',
+              'No assistive touch control button in it',
+              'No oleophobic coating on back panel glass and finger prints are '
+              'visible but since I bought mint gr...'],
+ 'ratings': '5'}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Very poor',
+ 'comments': ['Reviewing again after 5 months. At the beginning the battery '
+              'and performance was good but it degraded soon. Also I was '
+              'facing heating issues. The mobile will heat up like a stove '
+              'sometimes. You cannot even play Pubg even in low settings '
+              'properly, performance is not a problem but heating is. Also if '
+              'you play that game for 10 mins the brightness will be '
+              'automatically down due to over heating even when the auto '
+              'brightness is set to off. This will not be solved even if u '
+              'manually increase the bri...']}
+2020-11-03 21:36:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=2>
+{'caption': 'Classy product',
+ 'comments': ['Well while switching from android to iOS the first thing you '
+              'need to be careful about is that you will loose all your '
+              'whatsapp chat backups as both are different operating systems. '
+              'Camera clarity is awesome and though being an lcd screen '
+              'clarity and resolution is good. Battery backup is also good '
+              'unlike previous gen iPhone. So far the experience is good will '
+              'Padre after a few months of usage.',
+              'P.S the black is more of a dark grey shade and not jet black'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3 via http://localhost:8050/execute> (referer: None)
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Brilliant',
+ 'comments': ['The Best Phone for the Money',
+              'The iPhone 11 offers superb cameras, a more durable design and '
+              'excellent battery life for an affordable price.',
+              'Compelling ultra-wide camera',
+              'New Night mode is excellent',
+              'Long battery life'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Awesome',
+ 'comments': ['Very excited to have this phone. This phone has the real power '
+              'unlike the android phones having SD 855 . The battery life is '
+              'very good and the camera quality is excellent as comapred to '
+              'redmi and other phones except google pixel. I M enjoying every '
+              'single bit of it. Would recommed only if you have the budget.'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Excellent',
+ 'comments': ['Amazing camera and feel super machine I am not describe my '
+              'feeling but this is amazing Phone I am so lucky I have this'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Fabulous!',
+ 'comments': ['awesome phone to have. it has got many smart features apart '
+              'from mind blowing looks, camera, display, battery and sound. '
+              'have fallen in love with this phone. must buy phone if you have '
+              'got enough money. thanks to flipkart and apple of course..'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Simply awesome',
+ 'comments': ["It's very high performances devise i am like the service of "
+              'flipkart delevary very fast and packing very nice perfect '
+              'phone'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Fabulous!',
+ 'comments': ['This is my first iOS phone. I am very happy with this product. '
+              'Very much satisfied with this. I love this phone.'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Classy product',
+ 'comments': ['Superb Product !!!',
+              ' A big and worthy upgrade from mi 3S to iphone 11 . ',
+              'Totally loved it !'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Terrific',
+ 'comments': ['Really worth of money. i just love it. It is the best phone '
+              'ever.'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Perfect product!',
+ 'comments': ['Awesome purchase. Amazing phone with good battery backup. It’s '
+              'a top notch device. White colour looks amazing. Phone has a few '
+              'extra feature than iPhone XR. Overall, this is value for money'],
+ 'ratings': '5'}
+2020-11-03 21:36:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=3>
+{'caption': 'Good choice',
+ 'comments': ['So far it’s been an AMAZING experience coming back to iOS after '
+              'nearly a decade but it’s not as versatile as android though '
+              'phone is sturdy dropped it accidentally a couple of times and '
+              'nothing happened fortunately camera is awesome'],
+ 'ratings': '4'}
+2020-11-03 21:36:39 [scrapy] DEBUG: Retrying <GET https://www.flipkart.com/apple-iphone-11-black-64-gb-includes-earpods-power-adapter/product-reviews/itm0f37c2240b217?pid=MOBFKCTSVZAXUHGR&lid=LSTMOBFKCTSVZAXUHGREPBFGI&marketplace=FLIPKART&page=4 via http://localhost:8050/execute> (failed 1 times): [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]

@@ -1,0 +1,850 @@
+[
+    {
+        "price": "759 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AC4507DDF61FFFD1E&t=pi&w=320&h=240&sm=c",
+        "address": "7514, Rue  Durocher, app. 3",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Parc-Extension",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/10426777?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D022DD1C127F1D1E&t=pi&w=320&h=240&sm=c",
+        "address": "10045, Rue  Clark, app. 2",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Ahuntsic Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/21052561?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A1850CD1253520D1F&t=pi&w=320&h=240&sm=c",
+        "address": "590, Avenue  Bloomfield, app. 23",
+        "city": "Montréal (Outremont)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-outremont/20897335?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2ED9E02DD9C8E62D1C&t=pi&w=320&h=240&sm=c",
+        "address": "644, 41e Avenue",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/11838963?view=Summary"
+    },
+    {
+        "price": "850 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20E9519D1E04046D12&t=pi&w=320&h=240&sm=c",
+        "address": "9320, Avenue  Olivier-Maurault",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Ahuntsic Centre",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22488879?view=Summary"
+    },
+    {
+        "price": "825 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D201305FD1EB02AFD11&t=pi&w=320&h=240&sm=c",
+        "address": "8695, Rue  Saint-Denis, app. 4",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Villeray",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/22573929?view=Summary"
+    },
+    {
+        "price": "700 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A3532AD1E2020DD1F&t=pi&w=320&h=240&sm=c",
+        "address": "2151, Rue  Liébert",
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "zone": "Quartier Mercier",
+        "summary": "/fr/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/22246256?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C037D2D1D08EB3D1B&t=pi&w=320&h=240&sm=c",
+        "address": "6740, boulevard  Décarie, app. 210",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/17278349?view=Summary"
+    },
+    {
+        "price": "625 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D225915EDD86CB35D1B&t=pi&w=320&h=240&sm=c",
+        "address": "4240, Rue  Forest, app. 1",
+        "city": "Montréal (Montréal-Nord)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-montreal-nord/11487454?view=Summary"
+    },
+    {
+        "price": "960 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A042C5D1C577E8D1A&t=pi&w=320&h=240&sm=c",
+        "address": "2875, Avenue  Ekers, app. 14",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21941338?view=Summary"
+    },
+    {
+        "price": "795 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C4B9F5DD8149E0D1F&t=pi&w=320&h=240&sm=c",
+        "address": "135, Rue du Port, app. 200",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Vieux-Montréal",
+        "summary": "/fr/loft-studio~a-louer~montreal-ville-marie/10562391?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2020B5FDD757782D1D&t=pi&w=320&h=240&sm=c",
+        "address": "7000, Rue  Allard, app. 623",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/13552803?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AEC43EDD3C1030D1B&t=pi&w=320&h=240&sm=c",
+        "address": "792, Avenue  Ogilvy",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Parc-Extension",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/13899735?view=Summary"
+    },
+    {
+        "price": "850 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D201DCB5D1F671AAD14&t=pi&w=320&h=240&sm=c",
+        "address": "3281, Rue  Ontario Est, app. 2",
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "zone": "Quartier Hochelaga-Maisonneuve",
+        "summary": "/fr/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/27246950?view=Summary"
+    },
+    {
+        "price": "985 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D95A1D11CA25CD1D&t=pi&w=320&h=240&sm=c",
+        "address": "1870, Rue  Dufresne",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/18113508?view=Summary"
+    },
+    {
+        "price": "180 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E8F441D104D951D12&t=pi&w=320&h=240&sm=c",
+        "address": "551S, Rue de la Montagne",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre",
+        "summary": "/fr/terrain~a-louer~montreal-ville-marie/24251361?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C03390DD3AE60DD12&t=pi&w=320&h=240&sm=c",
+        "address": "6740, boulevard  Décarie, app. 505",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/14049136?view=Summary"
+    },
+    {
+        "price": "250 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D247BDE6D11E436DD1C&t=pi&w=320&h=240&sm=c",
+        "address": "1450P, boulevard  René-Lévesque Ouest",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/terrain~a-louer~montreal-ville-marie/18165232?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A5FABBD142DF7ED1C&t=pi&w=320&h=240&sm=c",
+        "address": "13535, Rue  Forsyth, app. 2",
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "zone": "Quartier Pointe-aux-Trembles",
+        "summary": "/fr/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/19073477?view=Summary"
+    },
+    {
+        "price": "995 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D0AE8DD965D8AD12&t=pi&w=320&h=240&sm=c",
+        "address": "9241, boulevard  LaSalle, app. S02",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/12574886?view=Summary"
+    },
+    {
+        "price": "300 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2478BBDDDFF633BD1F&t=pi&w=320&h=240&sm=c",
+        "address": "1450V, boulevard  René-Lévesque Ouest",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/terrain~a-louer~montreal-ville-marie/10091992?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A89050DD70FDE1D1C&t=pi&w=320&h=240&sm=c",
+        "address": "4206, Rue  Bélanger",
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "zone": "Quartier Nouveau-Rosemont",
+        "summary": "/fr/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/13078609?view=Summary"
+    },
+    {
+        "price": "250 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D244A842D1191609D10&t=pi&w=320&h=240&sm=c",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. P180",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/18554747?view=Summary"
+    },
+    {
+        "price": "565 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20E055AD1DDE164D1E&t=pi&w=320&h=240&sm=c",
+        "address": "127, 5e Avenue",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/16798194?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A40AB8DD3B2B33D14&t=pi&w=320&h=240&sm=c",
+        "address": "9072, Rue  Descartes",
+        "city": "Montréal (Saint-Léonard)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-leonard/14170333?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20DC0F2DD9EB1A0D14&t=pi&w=320&h=240&sm=c",
+        "address": "5739, Avenue de Darlington, app. 1",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/11895143?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E15B49D1E2BD9CD11&t=pi&w=320&h=240&sm=c",
+        "address": "1558, Rue  De Salaberry",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Nouveau Bordeaux",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/22249652?view=Summary"
+    },
+    {
+        "price": "775 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20C993CDD95A598D1F&t=pi&w=320&h=240&sm=c",
+        "address": "8541, Rue  Hochelaga, app. 2",
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "zone": "Quartier Mercier",
+        "summary": "/fr/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/12480186?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2041D20D12B01F7D1E&t=pi&w=320&h=240&sm=c",
+        "address": "5745, Avenue  Azilda",
+        "city": "Montréal (Anjou)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-anjou/20476316?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D22B1185DD710BF8D1F&t=pi&w=320&h=240&sm=c",
+        "address": "5316, Place  Newman",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12679322?view=Summary"
+    },
+    {
+        "price": "795 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A18F22D1A0B8B1D1C&t=pi&w=320&h=240&sm=c",
+        "address": "1880, Rue  Jean-Leduc",
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "zone": "Quartier Pointe-aux-Trembles",
+        "summary": "/fr/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/23562881?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A0FC5FD18B1B52D14&t=pi&w=320&h=240&sm=c",
+        "address": "3816, Rue  Wellington",
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "zone": "Quartier Verdun",
+        "summary": "/fr/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/27793635?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A61F9BD1EF26ACD11&t=pi&w=320&h=240&sm=c",
+        "address": "771 - 777, 41e Avenue, app. 771",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/22626148?view=Summary"
+    },
+    {
+        "price": "850 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AB69FFDDF66E2CD1C&t=pi&w=320&h=240&sm=c",
+        "address": "9071, 25e Avenue",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/10482996?view=Summary"
+    },
+    {
+        "price": "800 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D24B12DBD14792D5D12&t=pi&w=320&h=240&sm=c",
+        "address": "6297A, Avenue de Vimy",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/19706638?view=Summary"
+    },
+    {
+        "price": "600 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D204AACCD14FDF4ED1C&t=pi&w=320&h=240&sm=c",
+        "address": "7433, boulevard  Pie-IX, app. 3",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/19466533?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EF5684D1C6EE21D1C&t=pi&w=320&h=240&sm=c",
+        "address": "1665, boulevard  Desmarchais, app. 4",
+        "city": "Montréal (Le Sud-Ouest)",
+        "zone": "Quartier Saint-Paul/Émard",
+        "summary": "/fr/condo-appartement~a-louer~montreal-le-sud-ouest/21976369?view=Summary"
+    },
+    {
+        "price": "650 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D202E8F4D12B3292D1A&t=pi&w=320&h=240&sm=c",
+        "address": "2569, Rue  Prieur Est",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Ahuntsic Est",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/20501427?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2027942D14043B5D1D&t=pi&w=320&h=240&sm=c",
+        "address": "2295, boulevard de la Côte-Vertu, app. B1",
+        "city": "Montréal (Saint-Laurent)",
+        "zone": "Quartier Saint-Laurent Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-laurent/19344782?view=Summary"
+    },
+    {
+        "price": "999 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AF4E8FD1808EBDD1D&t=pi&w=320&h=240&sm=c",
+        "address": "4150, Rue  Saint-Ambroise, app. 311",
+        "city": "Montréal (Le Sud-Ouest)",
+        "zone": "Quartier Saint-Henri/Petite Bourgogne",
+        "summary": "/fr/loft-studio~a-louer~montreal-le-sud-ouest/27764096?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C63532DD30968AD10&t=pi&w=320&h=240&sm=c",
+        "address": "2205, Rue  Saint-Marc, app. 1C",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/14139302?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A9AC63D1295375D1A&t=pi&w=320&h=240&sm=c",
+        "address": "3441, Rue  Jeanne-Mance, app. 31",
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "zone": "Quartier Le Plateau-Mont-Royal",
+        "summary": "/fr/condo-appartement~a-louer~montreal-le-plateau-mont-royal/20704718?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20C710AD1C503F4D1E&t=pi&w=320&h=240&sm=c",
+        "address": "1155, Rue de la Montagne, app. 203",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/21921170?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E57239D1C69FA5D1C&t=pi&w=320&h=240&sm=c",
+        "address": "12067, boulevard  Lacordaire",
+        "city": "Montréal (Montréal-Nord)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-montreal-nord/22002030?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20E5412D190AED9D11&t=pi&w=320&h=240&sm=c",
+        "address": "10338, Avenue  Audoin",
+        "city": "Montréal (Montréal-Nord)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-montreal-nord/28796171?view=Summary"
+    },
+    {
+        "price": "695 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2012EDBD1E9D453D1B&t=pi&w=320&h=240&sm=c",
+        "address": "3882, Rue  Evelyn",
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "zone": "Quartier Verdun",
+        "summary": "/fr/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/22741741?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D5882D128F5FCD1A&t=pi&w=320&h=240&sm=c",
+        "address": "7465, Rue  Birnam",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Parc-Extension",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/20618900?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EFFF0AD14B5C49D1B&t=pi&w=320&h=240&sm=c",
+        "address": "105, 11e Avenue",
+        "city": "Montréal (Lachine)",
+        "zone": "Quartier Est",
+        "summary": "/fr/condo-appartement~a-louer~montreal-lachine/19457067?view=Summary"
+    },
+    {
+        "price": "800 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A9CEA7D1459E19D11&t=pi&w=320&h=240&sm=c",
+        "address": "7921A, Rue  Molson",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/19838235?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C6594CD1F2A84DD1A&t=pi&w=320&h=240&sm=c",
+        "address": "6507, 44e Avenue",
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "zone": "Quartier Nouveau-Rosemont",
+        "summary": "/fr/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/26438176?view=Summary"
+    },
+    {
+        "price": "250 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E5D171DD3EB113D1F&t=pi&w=320&h=240&sm=c",
+        "address": "350, boulevard  De Maisonneuve Ouest, app. SS",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/13992221?view=Summary"
+    },
+    {
+        "price": "985 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C03773D11201C4D1E&t=pi&w=320&h=240&sm=c",
+        "address": "6740, boulevard  Décarie, app. 405",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/18051394?view=Summary"
+    },
+    {
+        "price": "220 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EEBF23D1497EA6D1D&t=pi&w=320&h=240&sm=c",
+        "address": "1205S, Rue  MacKay",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/terrain~a-louer~montreal-ville-marie/19645807?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C94ED5D1F5BE6ED1B&t=pi&w=320&h=240&sm=c",
+        "address": "5855, Rue de Verdun, app. 1",
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "zone": "Quartier Verdun",
+        "summary": "/fr/condo-appartement~a-louer~montreal-verdun-ile-des-soeurs/27166197?view=Summary"
+    },
+    {
+        "price": "910 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A0D5DBDD714D7CD1C&t=pi&w=320&h=240&sm=c",
+        "address": "567, 15e Avenue, app. 4",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/12656836?view=Summary"
+    },
+    {
+        "price": "850 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2CEEF26D12E8808D14&t=pi&w=320&h=240&sm=c",
+        "address": "4991, Rue de Paisley, app. 4",
+        "city": "Montréal (Saint-Léonard)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-leonard/20294266?view=Summary"
+    },
+    {
+        "price": "880 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D35ABDD953021D1F&t=pi&w=320&h=240&sm=c",
+        "address": "2307A, Avenue  Walkley",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Notre-Dame-de-Grâce",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/12506929?view=Summary"
+    },
+    {
+        "price": "800 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A201E3DD893E9BD1E&t=pi&w=320&h=240&sm=c",
+        "address": "5074, Rue  Brazier",
+        "city": "Montréal (Saint-Léonard)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-leonard/11261368?view=Summary"
+    },
+    {
+        "price": "825 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C69A50DD357CD1D1D&t=pi&w=320&h=240&sm=c",
+        "address": "12092, Avenue  Lamoureux",
+        "city": "Montréal (Montréal-Nord)",
+        "zone": null,
+        "summary": "/fr/maison~a-louer~montreal-montreal-nord/14599169?view=Summary"
+    },
+    {
+        "price": "895 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2ABFBEDD1807C98D1A&t=pi&w=320&h=240&sm=c",
+        "address": "3495, Rue de la Montagne, app. 12",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/27772090?view=Summary"
+    },
+    {
+        "price": "970 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E271DEDD888303D1B&t=pi&w=320&h=240&sm=c",
+        "address": "9375, Rue  Rancourt",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/11185533?view=Summary"
+    },
+    {
+        "price": "885 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C6B8E8DD59D224D10&t=pi&w=320&h=240&sm=c",
+        "address": "6474, boulevard  Maurice-Duplessis, app. 6",
+        "city": "Montréal (Montréal-Nord)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-montreal-nord/15401778?view=Summary"
+    },
+    {
+        "price": "650 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20AD8CED12D7F52D14&t=pi&w=320&h=240&sm=c",
+        "address": "698, Rue  Jarry Est, app. 3",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Villeray",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/19974627?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A22E08D1ED331CD1F&t=pi&w=320&h=240&sm=c",
+        "address": "8680, Avenue  Bloomfield, app. 1",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Parc-Extension",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/22076692?view=Summary"
+    },
+    {
+        "price": "825 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2ECD665D1F661FBD12&t=pi&w=320&h=240&sm=c",
+        "address": "8099, Rue  Simonne, app. A",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/27259288?view=Summary"
+    },
+    {
+        "price": "300 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D24FB102DD858B3BD1B&t=pi&w=320&h=240&sm=c",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. #160",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/11446488?view=Summary"
+    },
+    {
+        "price": "985 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20C6B0CDD6E3F66D1F&t=pi&w=320&h=240&sm=c",
+        "address": "448, 32e Avenue",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/16112127?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E6D6EEDD69254BD1D&t=pi&w=320&h=240&sm=c",
+        "address": "960, Avenue  Sainte-Croix, app. 105B",
+        "city": "Montréal (Saint-Laurent)",
+        "zone": "Quartier Vieux Saint-Laurent",
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-laurent/16465448?view=Summary"
+    },
+    {
+        "price": "990 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20C39D6D1FCF846D14&t=pi&w=320&h=240&sm=c",
+        "address": "2991, Avenue  Laurier Est, app. 2",
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "zone": "Quartier Vieux-Rosemont",
+        "summary": "/fr/condo-appartement~a-louer~montreal-rosemont-la-petite-patrie/26516015?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A3FC66D1ACA312D11&t=pi&w=320&h=240&sm=c",
+        "address": "2104, Rue  Robidoux",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/23358739?view=Summary"
+    },
+    {
+        "price": "680 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D4589EEBD19BE84DD11&t=pi&w=320&h=240&sm=c",
+        "address": "4618, boulevard  Décarie",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/28858912?view=Summary"
+    },
+    {
+        "price": "210 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2ABF58CD1200DB0D1E&t=pi&w=320&h=240&sm=c",
+        "address": "1450S, boulevard  René-Lévesque Ouest",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/terre~a-louer~montreal-ville-marie/20410503?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A95DFCDDF1576BD1E&t=pi&w=320&h=240&sm=c",
+        "address": "3069, Rue  Villeray",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/9563384?view=Summary"
+    },
+    {
+        "price": "675 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D80B9DD6B66F1D1B&t=pi&w=320&h=240&sm=c",
+        "address": "7027, Avenue de Belfroy",
+        "city": "Montréal (Anjou)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-anjou/16318353?view=Summary"
+    },
+    {
+        "price": "985 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A567C5DD8C2197D14&t=pi&w=320&h=240&sm=c",
+        "address": "1450, Rue  Springland, app. 5",
+        "city": "Montréal (Le Sud-Ouest)",
+        "zone": "Quartier Saint-Paul/Émard",
+        "summary": "/fr/condo-appartement~a-louer~montreal-le-sud-ouest/10760636?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D204BBCBD18BD3F2D14&t=pi&w=320&h=240&sm=c",
+        "address": "7365, boulevard  Shaughnessy, app. 1A",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/27790739?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E58481DD753174D14&t=pi&w=320&h=240&sm=c",
+        "address": "7881, Avenue  Salomon-Marion, app. 2",
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "zone": "Quartier Rivière-des-Prairies",
+        "summary": "/fr/condo-appartement~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/13554114?view=Summary"
+    },
+    {
+        "price": "995 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EBEE71D10CC099D1F&t=pi&w=320&h=240&sm=c",
+        "address": "4935, Chemin de la Côte-des-Neiges, app. 2",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Côte-des-Neiges",
+        "summary": "/fr/condo-appartement~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/24397755?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D204104FDD33B355D1E&t=pi&w=320&h=240&sm=c",
+        "address": "5747, Avenue  Azilda",
+        "city": "Montréal (Anjou)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-anjou/14519790?view=Summary"
+    },
+    {
+        "price": "970 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2CCBFE8D1BAD028D1A&t=pi&w=320&h=240&sm=c",
+        "address": "145, Terrasse  Fleurie",
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "zone": "Quartier Pointe-aux-Trembles",
+        "summary": "/fr/maison~a-louer~montreal-riviere-des-prairies-pointe-aux-trembles/25560890?view=Summary"
+    },
+    {
+        "price": "995 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E5527ADD7B5B22D1C&t=pi&w=320&h=240&sm=c",
+        "address": "2060, Rue du Fort, app. 5",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/13166643?view=Summary"
+    },
+    {
+        "price": "925 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EF254FDD79C30FD12&t=pi&w=320&h=240&sm=c",
+        "address": "5705, boulevard  Gouin Ouest",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Cartierville",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/13323641?view=Summary"
+    },
+    {
+        "price": "101 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EF392ED1A2E968D1F&t=pi&w=320&h=240&sm=c",
+        "address": "905S, Avenue  Sainte-Croix",
+        "city": "Montréal (Saint-Laurent)",
+        "zone": "Quartier Vieux Saint-Laurent",
+        "summary": "/fr/terrain~a-vendre~montreal-saint-laurent/23288826?view=Summary"
+    },
+    {
+        "price": "800 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A2A25AD1A3AC86D1B&t=pi&w=320&h=240&sm=c",
+        "address": "500, 1re Avenue, app. S002",
+        "city": "Montréal (Lachine)",
+        "zone": "Quartier Est",
+        "summary": "/fr/condo-appartement~a-louer~montreal-lachine/23946415?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A6E508D1C34DFFD1D&t=pi&w=320&h=240&sm=c",
+        "address": "7250, Avenue  M.-B.-Jodoin, app. 407",
+        "city": "Montréal (Anjou)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-anjou/21831833?view=Summary"
+    },
+    {
+        "price": "150 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2C4A766D14A13DDD14&t=pi&w=320&h=240&sm=c",
+        "address": "1700G, Rue  Viola-Desmond",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/terrain~a-louer~montreal-lasalle/19275008?view=Summary"
+    },
+    {
+        "price": "960 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20C1283DD86EBFAD1A&t=pi&w=320&h=240&sm=c",
+        "address": "2003, Rue  Alice-Nolin",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Nouveau Bordeaux",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/11491478?view=Summary"
+    },
+    {
+        "price": "225 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AA2062D10DC225D12&t=pi&w=320&h=240&sm=c",
+        "address": "1414, Rue  Chomedey, app. S-009",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/24134462?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2E72F5AD1FC1CEED1F&t=pi&w=320&h=240&sm=c",
+        "address": "1155, Rue de la Montagne, app. 404",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/condo~a-vendre~montreal-ville-marie/26481749?view=Summary"
+    },
+    {
+        "price": "925 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2CEEA75D1A081ABD12&t=pi&w=320&h=240&sm=c",
+        "address": "4991, Rue de Paisley, app. 1",
+        "city": "Montréal (Saint-Léonard)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-leonard/23568744?view=Summary"
+    },
+    {
+        "price": "995 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EA167BD141C19BD12&t=pi&w=320&h=240&sm=c",
+        "address": "629, 24e Avenue",
+        "city": "Montréal (Lachine)",
+        "zone": "Quartier Est",
+        "summary": "/fr/condo-appartement~a-louer~montreal-lachine/18956728?view=Summary"
+    },
+    {
+        "price": "975 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2EFF395D10A147DD1E&t=pi&w=320&h=240&sm=c",
+        "address": "1110, Rue  Saint-Louis",
+        "city": "Montréal (Lachine)",
+        "zone": "Quartier Est",
+        "summary": "/fr/condo-appartement~a-louer~montreal-lachine/24515264?view=Summary"
+    },
+    {
+        "price": "850 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D202CC6FDD755E91D11&t=pi&w=320&h=240&sm=c",
+        "address": "6645, Rue de Marseille",
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "zone": "Quartier Mercier",
+        "summary": "/fr/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/13559217?view=Summary"
+    },
+    {
+        "price": "700 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A71F30D12DC10CD1F&t=pi&w=320&h=240&sm=c",
+        "address": "1840, Rue  Senkus, app. 101",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/19939700?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A7A5ECD1CB286AD1F&t=pi&w=320&h=240&sm=c",
+        "address": "926, Avenue  Sainte-Croix, app. 108",
+        "city": "Montréal (Saint-Laurent)",
+        "zone": "Quartier Vieux Saint-Laurent",
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-laurent/21510902?view=Summary"
+    },
+    {
+        "price": "700 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2022BFFD11DE3E7D10&t=pi&w=320&h=240&sm=c",
+        "address": "6775A, Place  Métivier",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Bois de Saraguay",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/17849692?view=Summary"
+    },
+    {
+        "price": "950 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20C8D3ED1DE36CFD11&t=pi&w=320&h=240&sm=c",
+        "address": "491, Avenue  Tremblay",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/17162057?view=Summary"
+    },
+    {
+        "price": "1 000 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20278A7DDF3EED7D1A&t=pi&w=320&h=240&sm=c",
+        "address": "2295, boulevard de la Côte-Vertu, app. 104",
+        "city": "Montréal (Saint-Laurent)",
+        "zone": "Quartier Saint-Laurent Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-saint-laurent/10310924?view=Summary"
+    },
+    {
+        "price": "900 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A3B0B4D1C7EFCBD1B&t=pi&w=320&h=240&sm=c",
+        "address": "8097, Rue  Simonne",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/21780808?view=Summary"
+    },
+    {
+        "price": "660 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20204E9DD3F8966D10&t=pi&w=320&h=240&sm=c",
+        "address": "9428, Rue  Basile-Routhier",
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "zone": "Quartier Ahuntsic Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ahuntsic-cartierville/14265343?view=Summary"
+    },
+    {
+        "price": "999 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A6D0E4D1C80EE8D1E&t=pi&w=320&h=240&sm=c",
+        "address": "3300, boulevard  Cavendish, app. 305",
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "zone": "Quartier Notre-Dame-de-Grâce",
+        "summary": "/fr/loft-studio~a-louer~montreal-cote-des-neiges-notre-dame-de-grace/21656922?view=Summary"
+    },
+    {
+        "price": "850 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AA7BBDDD533197D12&t=pi&w=320&h=240&sm=c",
+        "address": "2035, Rue  Chomedey, app. 6",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Centre Ouest",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/15585724?view=Summary"
+    },
+    {
+        "price": "925 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2A2A36DDD69AB11D1D&t=pi&w=320&h=240&sm=c",
+        "address": "31, 69e Avenue",
+        "city": "Montréal (LaSalle)",
+        "zone": null,
+        "summary": "/fr/condo-appartement~a-louer~montreal-lasalle/16476177?view=Summary"
+    },
+    {
+        "price": "795 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D2AC9E8CDD6FF04BD1B&t=pi&w=320&h=240&sm=c",
+        "address": "6959, Rue  Hochelaga, app. 3",
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "zone": "Quartier Mercier",
+        "summary": "/fr/condo-appartement~a-louer~montreal-mercier-hochelaga-maisonneuve/16357160?view=Summary"
+    },
+    {
+        "price": "230 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D20D8B37DD999BF5D1D&t=pi&w=320&h=240&sm=c",
+        "address": "1155, Rue de la Montagne, app. PARKING",
+        "city": "Montréal (Ville-Marie)",
+        "zone": "Quartier Mille Carré Doré",
+        "summary": "/fr/condo-appartement~a-louer~montreal-ville-marie/12302494?view=Summary"
+    },
+    {
+        "price": "600 $",
+        "image_link": "https://mspublic.centris.ca/media.ashx?id=ADDD250D204010DD1031DC2D10&t=pi&w=320&h=240&sm=c",
+        "address": "7433, boulevard  Pie-IX, app. 6",
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "zone": "Quartier Saint-Michel",
+        "summary": "/fr/condo-appartement~a-louer~montreal-villeray-saint-michel-parc-extension/24973379?view=Summary"
+    }
+]

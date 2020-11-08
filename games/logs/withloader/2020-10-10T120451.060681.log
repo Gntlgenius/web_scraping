@@ -1,0 +1,29 @@
+2020-10-10 12:04:51 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/robots.txt> (referer: None) ['cached']
+2020-10-10 12:04:51 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?sort_by=&sort_order=0&filter=topsellers&page=1> (referer: None) ['cached']
+2020-10-10 12:04:51 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&filter=topsellers&page=1>
+{'game_img': 'https://steamcdn-a.akamaihd.net/steam/apps/1086940/capsule_sm_120.jpg?t=1602076927',
+ 'game_name': "Baldur's Gate 3",
+ 'game_url': 'https://store.steampowered.com/app/1086940/Baldurs_Gate_3/?snr=1_7_7_7000_150_1',
+ 'original_price': '$59.99',
+ 'platforms': ['win', 'mac'],
+ 'release_date': '6 Oct, 2020',
+ 'review_summary': 'Very Positive 83% of the 9,404 user reviews for this game '
+                   'are positive.'}
+2020-10-10 12:04:51 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&filter=topsellers&page=1>
+{'game_img': 'https://steamcdn-a.akamaihd.net/steam/apps/739630/capsule_sm_120.jpg?t=1602270061',
+ 'game_name': 'Phasmophobia',
+ 'game_url': 'https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_1',
+ 'original_price': '$13.99',
+ 'platforms': ['win', 'vr_supported'],
+ 'release_date': '18 Sep, 2020',
+ 'review_summary': 'Overwhelmingly Positive 97% of the 20,353 user reviews for '
+                   'this game are positive.'}
+2020-10-10 12:04:51 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&filter=topsellers&page=1>
+{'game_img': 'https://steamcdn-a.akamaihd.net/steam/apps/739630/capsule_sm_120.jpg?t=1602270061',
+ 'game_name': 'Phasmophobia',
+ 'game_url': 'https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_1',
+ 'original_price': '$13.99',
+ 'platforms': ['win', 'vr_supported'],
+ 'release_date': '18 Sep, 2020',
+ 'review_summary': 'Overwhelmingly Positive 97% of the 20,353 user reviews for '
+                   'this game are positive.'}
